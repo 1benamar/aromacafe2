@@ -1,0 +1,11 @@
+{
+  "name": "aroma-cafe-tools",
+  "private": true,
+  "type": "module",
+  "description": "Herramientas de desarrollo (no se publican en la web)",
+  "dependencies": {
+    "@phosphor-icons/core": "^2.1.1",
+    "sharp": "^0.34.5",
+    "puppeteer-core": "^25.15.0"
+  }
+}

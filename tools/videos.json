@@ -1,0 +1,58 @@
+[
+  {
+    "n": "entrada",
+    "src": "WhatsApp Video 2026-10-29 at 23.37.24.mp4",
+    "t": [
+      0,
+      14.8
+    ],
+    "modo": "fundido",
+    "fundido": 1,
+    "ancho": 464,
+    "kbps": 950
+  },
+  {
+    "n": "barra",
+    "src": "WhatsApp Video 2026-10-29 at 23.37.30.mp4",
+    "t": [
+      0,
+      3.6
+    ],
+    "modo": "vaiven",
+    "ancho": 464,
+    "kbps": 1000
+  },
+  {
+    "n": "barra-2",
+    "src": "WhatsApp Video 2026-10-29 at 23.37.33.mp4",
+    "t": [
+      0,
+      4.4
+    ],
+    "modo": "vaiven",
+    "ancho": 464,
+    "kbps": 1300
+  },
+  {
+    "n": "botellero",
+    "src": "WhatsApp Video 2026-10-29 at 23.37.29.mp4",
+    "t": [
+      0,
+      4.6
+    ],
+    "modo": "vaiven",
+    "ancho": 832,
+    "kbps": 1600
+  },
+  {
+    "n": "puerta",
+    "src": "WhatsApp Video 2026-10-29 at 23.37.20.mp4",
+    "t": [
+      0,
+      2.1
+    ],
+    "modo": "vaiven",
+    "ancho": 576,
+    "kbps": 1300
+  }
+]

@@ -1,0 +1,660 @@
+{
+  "fuente": "Fotos de la carta impresa enviadas el 29-10-2026 (_fuentes/whatsapp, 23.37.25 y 23.37.26). IVA incluido en todos los precios.",
+  "grupos": [
+    {
+      "id": "desayunos",
+      "nombre": "Desayunos",
+      "foto": {
+        "id": "desayuno",
+        "ancho": 1000,
+        "alt": "Desayuno inglés con tostadas, judías, huevos fritos, beicon y tomate",
+        "pie": "Desayuno inglés"
+      },
+      "secciones": [
+        {
+          "titulo": "Desayunos",
+          "nota": "Hasta las 12:00",
+          "platos": [
+            {
+              "n": "Croissant con café o té",
+              "p": "3,90"
+            },
+            {
+              "n": "Mini con café o té",
+              "p": "4,90"
+            },
+            {
+              "n": "Tostadas con mantequilla y mermelada, con café o té",
+              "p": "5,20"
+            },
+            {
+              "n": "Tostada con aguacate y huevo revuelto, con café o té",
+              "p": "8,90"
+            },
+            {
+              "n": "Desayuno inglés con café o té",
+              "d": "Tostadas, judías, huevos y beicon",
+              "p": "10,90"
+            },
+            {
+              "n": "Huevos fritos con jamón ibérico, pan con tomate y café o té",
+              "p": "14,90"
+            }
+          ]
+        },
+        {
+          "titulo": "Tostadas",
+          "platos": [
+            {
+              "n": "Tostada con queso curado",
+              "p": "7,90"
+            },
+            {
+              "n": "Tostada con salmón",
+              "d": "Salmón ahumado, huevo revuelto y aguacate",
+              "p": "10,20"
+            },
+            {
+              "n": "Tostada con butifarra",
+              "d": "Butifarra, cebolla caramelizada y pimiento verde",
+              "p": "9,60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tapas",
+      "nombre": "Tapas",
+      "foto": {
+        "id": "tapas",
+        "ancho": 900,
+        "alt": "Pulpo a la gallega, calamares a la romana y croquetas en la terraza",
+        "pie": "Pulpo, calamares y croquetas"
+      },
+      "secciones": [
+        {
+          "titulo": "Tapas",
+          "platos": [
+            {
+              "n": "Pan con tomate",
+              "p": "3,50"
+            },
+            {
+              "n": "Olivas",
+              "p": "3,80"
+            },
+            {
+              "n": "Patatas bravas",
+              "p": "7,40"
+            },
+            {
+              "n": "Surtido de croquetas",
+              "p": "8,50"
+            },
+            {
+              "n": "Alitas de pollo",
+              "p": "8,50"
+            },
+            {
+              "n": "Tabla de queso",
+              "p": "12,80"
+            },
+            {
+              "n": "Calamares a la andaluza",
+              "p": "14,20"
+            },
+            {
+              "n": "Calamares a la romana",
+              "p": "12,00"
+            },
+            {
+              "n": "Pulpo a la gallega",
+              "p": "16,80"
+            },
+            {
+              "n": "Chipirones",
+              "p": "13,60"
+            },
+            {
+              "n": "Jamón ibérico con pan con tomate",
+              "p": "21,00"
+            },
+            {
+              "n": "Secreto ibérico con patatas y mojo picón",
+              "p": "14,50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "platos",
+      "nombre": "Ensaladas y platos",
+      "foto": {
+        "id": "ensalada",
+        "ancho": 900,
+        "alt": "Ensalada griega con tomate, pepino, cebolla, aceitunas y queso feta",
+        "pie": "Ensalada griega"
+      },
+      "secciones": [
+        {
+          "titulo": "Ensaladas",
+          "platos": [
+            {
+              "n": "Ensalada griega",
+              "d": "Tomate, pepino, cebolla y queso feta",
+              "p": "12,80"
+            },
+            {
+              "n": "Ensalada de atún",
+              "d": "Ensalada verde, tomate, cebolla y huevo duro",
+              "p": "13,20"
+            },
+            {
+              "n": "Ensalada de salmón",
+              "d": "Lechugas variadas, salmón ahumado, aguacate, tomate, cebolla y huevo duro",
+              "p": "14,30"
+            }
+          ]
+        },
+        {
+          "titulo": "Platos combinados",
+          "platos": [
+            {
+              "n": "Hamburguesa clásica con patatas fritas",
+              "d": "Carne 100 % ternera, ensalada verde, tomate y queso cheddar",
+              "p": "13,50"
+            },
+            {
+              "n": "Hamburguesa mexicana",
+              "d": "Carne 100 % ternera, guacamole, cebolla caramelizada y queso cheddar",
+              "p": "14,80"
+            },
+            {
+              "n": "Hamburguesa de pollo",
+              "d": "Pollo, ensalada verde, tomate y queso cheddar",
+              "p": "12,80"
+            },
+            {
+              "n": "Huevos estrellados con virutas de jamón ibérico",
+              "p": "14,60"
+            },
+            {
+              "n": "Escalopa de pollo con patatas y ensalada",
+              "p": "14,80"
+            },
+            {
+              "n": "Butifarra con judías, pan con tomate y alioli",
+              "p": "15,20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bocadillos",
+      "nombre": "Bocadillos",
+      "secciones": [
+        {
+          "titulo": "Bocadillos fríos",
+          "tamanos": [
+            "Grande",
+            "Pequeño"
+          ],
+          "platos": [
+            {
+              "n": "Bull blanco",
+              "p": "6,50",
+              "p2": "3,20"
+            },
+            {
+              "n": "Fuet",
+              "p": "5,80",
+              "p2": "3,60"
+            },
+            {
+              "n": "Jamón serrano",
+              "p": "6,00",
+              "p2": "3,80"
+            },
+            {
+              "n": "Queso curado",
+              "p": "7,40",
+              "p2": "4,00"
+            },
+            {
+              "n": "Vegetal de atún",
+              "p": "7,80",
+              "p2": "4,90"
+            },
+            {
+              "n": "Salmón",
+              "d": "Salmón, lechuga y huevo cocido",
+              "p": "8,60"
+            },
+            {
+              "n": "Jamón ibérico",
+              "p": "8,90",
+              "p2": "5,90"
+            },
+            {
+              "n": "Vegetal de jamón york",
+              "p": "7,60",
+              "p2": "4,30"
+            },
+            {
+              "n": "Vegetal de queso",
+              "p": "7,60",
+              "p2": "4,30"
+            }
+          ]
+        },
+        {
+          "titulo": "Bocadillos calientes",
+          "tamanos": [
+            "Grande",
+            "Pequeño"
+          ],
+          "platos": [
+            {
+              "n": "Bikini",
+              "p": "4,80"
+            },
+            {
+              "n": "Tortilla francesa",
+              "p": "6,40",
+              "p2": "4,40"
+            },
+            {
+              "n": "Lomo con queso",
+              "p": "7,20",
+              "p2": "4,50"
+            },
+            {
+              "n": "Beicon con queso",
+              "p": "7,20",
+              "p2": "4,50"
+            },
+            {
+              "n": "Tortilla variada",
+              "p": "7,00",
+              "p2": "4,80"
+            },
+            {
+              "n": "Calamares",
+              "p": "8,10"
+            },
+            {
+              "n": "Serranito",
+              "p": "7,90"
+            },
+            {
+              "n": "Vegetal de pollo",
+              "p": "8,20"
+            }
+          ],
+          "pie": "Suplemento por ingrediente: 0,50 €"
+        }
+      ]
+    },
+    {
+      "id": "cafes",
+      "nombre": "Cafés y postres",
+      "foto": {
+        "id": "cafe",
+        "ancho": 900,
+        "alt": "Taza de café con su platillo sobre una mesa de mármol",
+        "pie": "Café"
+      },
+      "secciones": [
+        {
+          "titulo": "Cafés",
+          "platos": [
+            {
+              "n": "Café solo",
+              "p": "1,80"
+            },
+            {
+              "n": "Cortado",
+              "p": "2,00"
+            },
+            {
+              "n": "Café americano",
+              "p": "2,00"
+            },
+            {
+              "n": "Vaso de leche",
+              "p": "2,00"
+            },
+            {
+              "n": "Café con leche",
+              "p": "2,20"
+            },
+            {
+              "n": "Café con hielo",
+              "p": "2,30"
+            },
+            {
+              "n": "Café bombón",
+              "p": "2,40"
+            },
+            {
+              "n": "Carajillo",
+              "p": "2,10"
+            },
+            {
+              "n": "Trifásico",
+              "p": "2,30"
+            },
+            {
+              "n": "Cacaolat",
+              "p": "3,00"
+            },
+            {
+              "n": "Tés e infusiones",
+              "p": "3,00"
+            },
+            {
+              "n": "Capuchino",
+              "p": "4,50"
+            },
+            {
+              "n": "Chai latte",
+              "d": "Matcha, cúrcuma, vainilla o spiced",
+              "p": "5,50"
+            },
+            {
+              "n": "Matcha frappé",
+              "p": "6,00"
+            },
+            {
+              "n": "Café irlandés",
+              "p": "7,00"
+            }
+          ]
+        },
+        {
+          "titulo": "Postres",
+          "platos": [
+            {
+              "n": "Éclair de chocolate o vainilla",
+              "p": "5,50"
+            },
+            {
+              "n": "Tarta de zanahoria",
+              "p": "5,80"
+            },
+            {
+              "n": "Crepes con Nutella",
+              "p": "4,80"
+            },
+            {
+              "n": "Tarta de queso con frutos rojos",
+              "p": "5,80"
+            },
+            {
+              "n": "Coulant con helado de vainilla",
+              "p": "6,50"
+            },
+            {
+              "n": "Fresas con nata",
+              "p": "6,80"
+            },
+            {
+              "n": "Valenciano",
+              "p": "6,30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "nombre": "Bebidas",
+      "foto": {
+        "id": "jamon",
+        "ancho": 900,
+        "alt": "Copa de sangría, caña de cerveza, pan con tomate y jamón en una mesa de mármol",
+        "pie": "Sangría, cerveza y pan con tomate"
+      },
+      "secciones": [
+        {
+          "titulo": "Refrescos y zumos",
+          "platos": [
+            {
+              "n": "Agua mineral sin gas",
+              "p": "2,00"
+            },
+            {
+              "n": "Agua con gas",
+              "p": "2,80"
+            },
+            {
+              "n": "Agua mineral sin gas 1,5 l",
+              "p": "3,00"
+            },
+            {
+              "n": "Coca-Cola 237 ml",
+              "p": "2,60"
+            },
+            {
+              "n": "Fanta naranja o limón 237 ml",
+              "p": "2,60"
+            },
+            {
+              "n": "Sprite 200 ml",
+              "p": "2,80"
+            },
+            {
+              "n": "Bitter Kas",
+              "p": "2,80"
+            },
+            {
+              "n": "Tónica",
+              "p": "2,80"
+            },
+            {
+              "n": "Refresco en lata",
+              "p": "2,90"
+            },
+            {
+              "n": "Nestea",
+              "p": "2,90"
+            },
+            {
+              "n": "Aquarius",
+              "p": "2,90"
+            },
+            {
+              "n": "Zumo de botella",
+              "p": "3,00"
+            },
+            {
+              "n": "Horchata",
+              "p": "3,50"
+            },
+            {
+              "n": "Red Bull",
+              "p": "3,50"
+            },
+            {
+              "n": "Zumo natural de naranja",
+              "p": "4,50"
+            }
+          ]
+        },
+        {
+          "titulo": "Cervezas",
+          "platos": [
+            {
+              "n": "Caña pequeña",
+              "p": "2,40"
+            },
+            {
+              "n": "Shandy",
+              "p": "2,90"
+            },
+            {
+              "n": "Estrella Galicia, copa",
+              "p": "2,90"
+            },
+            {
+              "n": "1906, copa",
+              "p": "3,30"
+            },
+            {
+              "n": "Jarra",
+              "p": "4,80"
+            },
+            {
+              "n": "Botella sin alcohol",
+              "p": "2,80"
+            },
+            {
+              "n": "Botella sin alcohol tostada",
+              "p": "2,90"
+            },
+            {
+              "n": "Estrella Galicia, botella",
+              "p": "3,10"
+            },
+            {
+              "n": "1906, botella",
+              "p": "3,50"
+            }
+          ]
+        },
+        {
+          "titulo": "Aperitivos y sangría",
+          "platos": [
+            {
+              "n": "Vermut de la casa",
+              "p": "5,20"
+            },
+            {
+              "n": "Martini",
+              "p": "6,50"
+            },
+            {
+              "n": "Negroni",
+              "p": "8,80"
+            },
+            {
+              "n": "Aperol",
+              "p": "8,00"
+            },
+            {
+              "n": "Copa de sangría",
+              "p": "5,50"
+            },
+            {
+              "n": "Copa de sangría de cava",
+              "p": "6,50"
+            },
+            {
+              "n": "Sangría, 1 l",
+              "p": "15,00"
+            },
+            {
+              "n": "Sangría de cava, 1 l",
+              "p": "18,00"
+            }
+          ]
+        },
+        {
+          "titulo": "Gin tonic",
+          "platos": [
+            {
+              "n": "Beefeater",
+              "p": "7,50"
+            },
+            {
+              "n": "Bombay",
+              "p": "7,90"
+            },
+            {
+              "n": "Puerto de Indias",
+              "p": "8,00"
+            },
+            {
+              "n": "Hendrick's",
+              "p": "9,00"
+            }
+          ]
+        },
+        {
+          "titulo": "Copas",
+          "compacta": true,
+          "platos": [
+            {
+              "n": "Vodka Absolut",
+              "p": "7,50"
+            },
+            {
+              "n": "Vodka Beluga, Belvedere o Grey Goose",
+              "p": "9,00"
+            },
+            {
+              "n": "Whisky JB, Cutty Sark o Ballantine's",
+              "p": "7,00"
+            },
+            {
+              "n": "Whisky Johnnie Walker Black Label, Cardhu, Chivas o Jack Daniel's",
+              "p": "8,50"
+            },
+            {
+              "n": "Whisky Macallan 12",
+              "p": "10,50"
+            },
+            {
+              "n": "Ron Barceló, Brugal o Bacardí",
+              "p": "6,50"
+            },
+            {
+              "n": "Ron Havana Club 7",
+              "p": "8,00"
+            },
+            {
+              "n": "Coñac Veterano o Soberano",
+              "p": "5,00"
+            },
+            {
+              "n": "Coñac Torres 5",
+              "p": "6,00"
+            },
+            {
+              "n": "Coñac Rémy Martin",
+              "p": "8,00"
+            },
+            {
+              "n": "Tequila José Cuervo",
+              "p": "6,00"
+            },
+            {
+              "n": "Tequila Don Julio Blanco o Herradura",
+              "p": "9,00"
+            },
+            {
+              "n": "Chupito",
+              "p": "2,50"
+            },
+            {
+              "n": "Chupito premium",
+              "p": "4,00"
+            },
+            {
+              "n": "Licores",
+              "p": "4,80"
+            },
+            {
+              "n": "Licores premium",
+              "p": "5,80"
+            }
+          ],
+          "pie": "Suplemento de Red Bull en copas: 1,00 €"
+        }
+      ]
+    }
+  ]
+}

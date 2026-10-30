@@ -1,0 +1,250 @@
+[
+  {
+    "id": "barra",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.19 (1).jpeg",
+    "anchos": [
+      800,
+      1200,
+      1600
+    ],
+    "calidad": 76
+  },
+  {
+    "id": "fachada",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g01.jpg",
+    "anchos": [
+      900,
+      1400,
+      2000,
+      2400
+    ],
+    "calidad": 74,
+    "jpg": {
+      "ancho": 1200,
+      "alto": 630
+    }
+  },
+  {
+    "id": "sala-ancha",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g12.jpg",
+    "anchos": [
+      900,
+      1400,
+      2000
+    ],
+    "calidad": 74,
+    "parches": [
+      {
+        "de": {
+          "left": 1768,
+          "top": 236,
+          "width": 110,
+          "height": 126
+        },
+        "a": {
+          "left": 1768,
+          "top": 90
+        }
+      }
+    ]
+  },
+  {
+    "id": "toldo",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.34.jpeg",
+    "anchos": [
+      600,
+      900,
+      1200
+    ]
+  },
+  {
+    "id": "sala",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.26 (3).jpeg",
+    "anchos": [
+      600,
+      900,
+      1200
+    ]
+  },
+  {
+    "id": "grifo",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.27 (3).jpeg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "mostrador",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.27 (4).jpeg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "cobre",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.19 (3).jpeg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "jamon",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g08.jpg",
+    "anchos": [
+      600,
+      900,
+      1200
+    ]
+  },
+  {
+    "id": "desayuno",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g15.jpg",
+    "anchos": [
+      600,
+      1000
+    ]
+  },
+  {
+    "id": "tapas",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g16.jpg",
+    "anchos": [
+      600,
+      900,
+      1200
+    ]
+  },
+  {
+    "id": "ensalada",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g03.jpg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "mojito",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g13.jpg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "croissant",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g14.jpg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "cafe",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g05.jpg",
+    "anchos": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "calle",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g02.jpg",
+    "anchos": [
+      900,
+      1400
+    ]
+  },
+  {
+    "id": "relieve",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.25.jpeg",
+    "recorte": {
+      "left": 0,
+      "top": 900,
+      "width": 1200,
+      "height": 700
+    },
+    "anchos": [
+      600,
+      900,
+      1200
+    ],
+    "calidad": 76
+  },
+  {
+    "id": "fachada-cuadrada",
+    "src": "C:/Users/Usuario/.claude/webs/aroma-cafe-blanes/assets/photos/source/google/g01.jpg",
+    "recorte": {
+      "left": 555,
+      "top": 0,
+      "width": 1350,
+      "height": 1350
+    },
+    "anchos": [
+      600,
+      900,
+      1200
+    ],
+    "calidad": 76
+  },
+  {
+    "id": "barra-esquina",
+    "src": "_fuentes/whatsapp/WhatsApp Image 2026-10-29 at 23.37.26 (7).jpeg",
+    "anchos": [
+      600,
+      900,
+      1200
+    ],
+    "calidad": 76
+  },
+  {
+    "id": "portada",
+    "src": "_fuentes/stock/unsplash-capuchino.jpg",
+    "recorte": {
+      "left": 914,
+      "top": 0,
+      "width": 2348,
+      "height": 1236
+    },
+    "anchos": [
+      1400,
+      2000,
+      2348
+    ],
+    "calidad": 78
+  },
+  {
+    "id": "portada-cuadrada",
+    "src": "_fuentes/stock/unsplash-capuchino.jpg",
+    "recorte": {
+      "left": 1238,
+      "top": 60,
+      "width": 1700,
+      "height": 1700
+    },
+    "anchos": [
+      600,
+      900,
+      1200
+    ],
+    "calidad": 78
+  },
+  {
+    "id": "banda",
+    "src": "_fuentes/stock/unsplash-croissants.jpg",
+    "recorte": {
+      "left": 0,
+      "top": 420,
+      "width": 4096,
+      "height": 2048
+    },
+    "anchos": [
+      900,
+      1400,
+      2000,
+      2480
+    ],
+    "calidad": 76
+  }
+]

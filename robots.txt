@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1benamar.github.io/aromacafe2/sitemap.xml
