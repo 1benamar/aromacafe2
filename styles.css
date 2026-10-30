@@ -106,7 +106,7 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
 /* Cabecera: simétrica, el rótulo en el centro */
 .cabecera {
   position: fixed; inset: 0 0 auto; z-index: 40; height: var(--cab);
-  background: rgba(242, 242, 239, 0.97); color: var(--tinta);
+  background: var(--marmol); color: var(--tinta);
   transition: box-shadow 260ms ease;
 }
 .cabecera.solida { box-shadow: 0 1px 0 var(--filete); }
@@ -254,7 +254,8 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
   position: relative; width: min(100% - 2 * var(--margen), 1120px); margin: clamp(3.5rem, 6vw, 5rem) auto 0;
   display: grid; grid-template-columns: 1fr; justify-items: center;
 }
-.collage-foto { background: var(--blanco); padding: clamp(6px, 0.8vw, 10px); box-shadow: var(--sombra); }
+.collage-foto { position: relative; }
+.collage-foto::after, .marco-claro::after { content: ""; position: absolute; inset: 8px; border: 1px solid rgba(235, 197, 122, 0.7); pointer-events: none; }
 .collage-foto img { width: 100%; height: 100%; object-fit: cover; }
 .collage-centro { width: 64%; aspect-ratio: 16 / 9; position: relative; z-index: 1; }
 .collage-izq, .collage-der { position: absolute; z-index: 2; width: 23%; aspect-ratio: 3 / 4; top: 26%; }
@@ -361,7 +362,7 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
 .visita-tri {
   margin-top: clamp(3rem, 5vw, 4.25rem);
   display: grid; grid-template-columns: minmax(0, 1fr) clamp(250px, 27vw, 340px) minmax(0, 1fr);
-  gap: clamp(2rem, 5vw, 4.5rem); align-items: center; text-align: center;
+  gap: clamp(2rem, 5vw, 4.5rem); align-items: start; text-align: center;
 }
 .visita-col .subtitulo { margin-bottom: 1.25rem; }
 .horario { margin: 0 auto; border-collapse: collapse; font-variant-numeric: tabular-nums; min-width: 15.5rem; }
@@ -369,7 +370,7 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
 .horario th { text-align: left; }
 .horario td { text-align: right; color: var(--tinta-2); }
 .horario tr.hoy-fila th, .horario tr.hoy-fila td { font-weight: 600; color: var(--tinta); background: var(--blanco); }
-.horario tr.hoy-fila th { box-shadow: inset 2px 0 0 var(--oro); }
+.horario tr.hoy-fila td { color: var(--verde); }
 .visita-col .nota { margin-top: 1rem; }
 .direccion { font-style: normal; line-height: 1.6; }
 .telefonos { margin-top: 0.9rem; display: grid; gap: 0.15rem; }
@@ -381,7 +382,7 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
 .resenas a, .mapa-enlace { display: inline-flex; align-items: center; gap: 0.3rem; color: var(--tinta); font-weight: 500; }
 .resenas svg, .mapa-enlace svg { font-size: 0.85em; }
 .visita-foto figcaption { margin-top: 0.8rem; font-size: 0.875rem; color: var(--tinta-2); }
-.marco-claro { background: var(--blanco); padding: 10px; box-shadow: var(--sombra); }
+.marco-claro { position: relative; }
 .marco-claro img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; }
 .mapa { margin-top: clamp(3.5rem, 6vw, 5rem); text-align: center; }
 .plano-marco { position: relative; height: clamp(300px, 32vw, 400px); background: var(--marmol); box-shadow: 0 0 0 1px var(--filete); overflow: hidden; }
@@ -515,3 +516,10 @@ svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
 }
 
 html.menu-abierto { overflow: hidden; }
+
+/* La barra del centro de El local también se enciende cuando está abierto */
+.rejilla-alta-marco::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse 70% 40% at 35% 85%, rgba(235, 197, 122, 0.35), transparent 70%); opacity: 0; transition: opacity 1.8s var(--ease-out) 0.4s; }
+.abierto .rejilla-alta.visto .rejilla-alta-marco::after { opacity: 1; }
+.visita-col .subtitulo { margin-top: 0; line-height: 1.2; }
+.pie-datos { margin-top: 2rem; color: var(--claro-2); font-size: 0.9375rem; }
+.pie-datos a { color: var(--claro); text-decoration: none; }
