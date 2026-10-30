@@ -138,7 +138,13 @@
     "anchos": [
       600,
       900
-    ]
+    ],
+    "recorte": {
+      "left": 0,
+      "top": 0,
+      "width": 2268,
+      "height": 2600
+    }
   },
   {
     "id": "cafe",
